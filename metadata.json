@@ -1,0 +1,9 @@
+
+{
+  "name": "Sistema Escritorio",
+  "description": "Um sistema completo de gestão de escritório para lidar com clientes, agendamentos, finanças e planejamento interno com uma interface React de alta performance.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
